@@ -1,0 +1,81 @@
+{
+    "ventas": [
+      {
+        "mes": "Enero",
+        "producto_A": 120,
+        "producto_B": 90,
+        "producto_C": 150
+      },
+      {
+        "mes": "Febrero",
+        "producto_A": 135,
+        "producto_B": 95,
+        "producto_C": 160
+      },
+      {
+        "mes": "Marzo",
+        "producto_A": 145,
+        "producto_B": 100,
+        "producto_C": 170
+      },
+      {
+        "mes": "Abril",
+        "producto_A": 160,
+        "producto_B": 105,
+        "producto_C": 180
+      },
+      {
+        "mes": "Mayo",
+        "producto_A": 175,
+        "producto_B": 110,
+        "producto_C": 190
+      },
+      {
+        "mes": "Junio",
+        "producto_A": 190,
+        "producto_B": 115,
+        "producto_C": 200
+      },
+      {
+        "mes": "Julio",
+        "producto_A": 200,
+        "producto_B": 120,
+        "producto_C": 210
+      },
+      {
+        "mes": "Agosto",
+        "producto_A": 210,
+        "producto_B": 125,
+        "producto_C": 220
+      },
+      {
+        "mes": "Septiembre",
+        "producto_A": 220,
+        "producto_B": 130,
+        "producto_C": 230
+      },
+      {
+        "mes": "Octubre",
+        "producto_A": 230,
+        "producto_B": 135,
+        "producto_C": 240
+      },
+      {
+        "mes": "Noviembre",
+        "producto_A": 240,
+        "producto_B": 140,
+        "producto_C": 250
+      },
+      {
+        "mes": "Diciembre",
+        "producto_A": 250,
+        "producto_B": 145,
+        "producto_C": 260
+      }
+    ],
+    "metadata": {
+      "descripcion": "Datos de ventas mensuales para graficar en R",
+      "unidades": "ventas en miles",
+      "fecha_creacion": "2024-03-15"
+    }
+  }
